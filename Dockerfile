@@ -1,4 +1,4 @@
-FROM python:rc-slim-buster
+FROM python:3.8-slim-buster
 
 # Dotnet core stuff:
 
